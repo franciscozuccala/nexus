@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<capabilitiesConfiguration>
+  <version>2.0.0</version>
+  <capabilities>
+    <capability>
+      <version>1</version>
+      <id>000003a79014a957</id>
+      <notes>Automatically added on Fri Jan 26 10:01:20 ART 2018</notes>
+      <typeId>OutreachManagementCapability</typeId>
+      <properties>
+        <property>
+          <key>baseUrl</key>
+          <value>http://links.sonatype.com/products/nexus/outreach</value>
+        </property>
+      </properties>
+    </capability>
+    <capability>
+      <version>1</version>
+      <id>000003a79014a958</id>
+      <notes>Automatically added on Fri Jan 26 10:01:20 ART 2018</notes>
+      <typeId>OutreachMarkerCapability</typeId>
+    </capability>
+    <capability>
+      <version>1</version>
+      <id>000003a79014a959</id>
+      <notes>Automatically added on Fri Jan 26 10:01:20 ART 2018</notes>
+      <typeId>yum</typeId>
+      <properties>
+        <property>
+          <key>maxNumberParallelThreads</key>
+          <value>10</value>
+        </property>
+        <property>
+          <key>createrepoPath</key>
+          <value>createrepo</value>
+        </property>
+        <property>
+          <key>mergerepoPath</key>
+          <value>mergerepo</value>
+        </property>
+      </properties>
+    </capability>
+    <capability>
+      <version>1</version>
+      <id>000003a79014a95a</id>
+      <notes>Automatically added on Fri Jan 26 10:01:20 ART 2018</notes>
+      <enabled>false</enabled>
+      <typeId>analytics.collection</typeId>
+      <properties>
+        <property>
+          <key>hostId</key>
+          <value>f3eebb11-54de-4fc1-ba6f-46aafbf2e820</value>
+        </property>
+        <property>
+          <key>salt</key>
+          <value>Qw42ZEOY97j3OxXlDShFwfwGc/X+QzQsWsRM9T0spAnU</value>
+        </property>
+      </properties>
+    </capability>
+    <capability>
+      <version>1</version>
+      <id>000003a79014a95b</id>
+      <notes>Automatically added on Fri Jan 26 10:01:20 ART 2018</notes>
+      <enabled>false</enabled>
+      <typeId>analytics.autosubmit</typeId>
+    </capability>
+  </capabilities>
+</capabilitiesConfiguration>
